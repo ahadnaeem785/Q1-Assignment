@@ -9,4 +9,7 @@
 // console.log("Hello "+Var+" kia hal hai")  //2
 
 let Var : string = "ali"
-console.log(`hello ${Var} kya hal hai`)  //3
+console.log(`hello ${Var} kya hal hai`)
+
+let Varr : string = "ali"
+console.log(`hello ${Varr} kya hal hai`)
